@@ -91,8 +91,8 @@
 ## 9. 자사 페이지 마이그레이션
 >
 > - 개발기간 : 2024.04 ~
-> html,css로만 되어있는 페이지를 react로 변경
-> 페이지 이동에 깜빡임 최소화, css,javascript minify를 통한 용량 최소화
+> - html,css로만 되어있는 페이지를 react로 변경
+> - 페이지 이동에 깜빡임 최소화, css,javascript minify를 통한 용량 최소화
 
 > ✔ Language :  react, vite, scss, styled-component,typescript, git, github
 
