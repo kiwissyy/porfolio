@@ -95,7 +95,7 @@
 > - 페이지 이동에 깜빡임 최소화, css,javascript minify를 통한 용량 최소화
 
 
-## [10.Optimized Geo-Dashboard] (https://github.com/kiwissyy/optimized-geo-dashboard-v1)
+## [10.Optimized Geo-Dashboard](https://github.com/kiwissyy/optimized-geo-dashboard-v1)
 >
 > 위성 속성 정보 데이터 시각화를 목표로 **Next.js 14 (App Router)** 환경에서 구축된 위성 데이터 대시보드 프로젝트입니다.  복잡한 클라이언트 사이드 라이브러리(Leaflet)와 서버 측 렌더링(SSR) 환경 간의 충돌을 성공적으로 해결했으며, **성능 최적화** 및 **실시간 데이터 처리** 역량을 집중적으로 구현했습니다.
 
